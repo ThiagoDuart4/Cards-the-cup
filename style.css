@@ -43,6 +43,10 @@ margin-left: -150px;
     color: #fff;
   }
 
+  .swiper-slide img{
+    width: 100%;
+  }
+
   .swiper-slide:nth-child(1n) {
     background-color: rgb(206, 17, 17);
   }
